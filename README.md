@@ -1,6 +1,6 @@
 # Sgr_vs_GD-1
 
-Example scripts for the paper 'The impact of a massive Sagittarius dSph on GD-1-like streams' by Adam M. Dillamore, Vasily Belokurov, N. Wyn Evans and Adrian M. Price-Whelan.
+Example scripts and data for the paper 'The impact of a massive Sagittarius dSph on GD-1-like streams' by Adam M. Dillamore, Vasily Belokurov, N. Wyn Evans and Adrian M. Price-Whelan.
 
 Sgr_orbit.py: generates LMC and Sgr orbits in a triaxial MW potential, with a range of Sgr mass decay rates. Reproduces Figure 1 in the paper.
 
